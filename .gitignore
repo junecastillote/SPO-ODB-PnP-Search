@@ -1,1 +1,6 @@
-
+run*
+demo*
+*.csv
+*.txt
+*.log
+*.xml
